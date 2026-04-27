@@ -8,9 +8,8 @@ class BasicCalculator {
             System.out.println("Enter the numbers:");
             num1 = sc.nextDouble();
         
-            System.out.println("Enter the operator (+, -, *, /):");
-            char operator = sc.next().charAt(0);
-
+            System.out.println("Enter operator (+, -, *, /):");
+            char operator = sc.next().charAt(0
             double result;
             switch (operator) {
                 case '+':

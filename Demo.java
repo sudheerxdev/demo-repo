@@ -18,7 +18,12 @@ char operator = sc.next().charAt(0);
                     break;
 
                 case '-':
-                    result = num1 - num2;
+
+
+
+
+
+                    resut = num1 - num2;
                     break;
 
                 case '*':
